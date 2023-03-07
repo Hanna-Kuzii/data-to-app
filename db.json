@@ -67,8 +67,8 @@
       "createdAt": "2023-03-01T18:52:26.229Z",
       "updatedAt": "2023-03-01T18:52:26.229Z",
       "userId": 3,
-      "title": "title",
-      "completed": false
+      "title": "yeeeeees",
+      "completed": true
     },
     {
       "id": 11,
@@ -76,6 +76,14 @@
       "updatedAt": "2023-03-01T18:52:26.229Z",
       "userId": 3,
       "title": "noooo",
+      "completed": false
+    },
+    {
+      "id": 111,
+      "createdAt": "2023-03-01T18:52:26.229Z",
+      "updatedAt": "2023-03-01T18:52:26.229Z",
+      "userId": 3,
+      "title": "do this now",
       "completed": false
     }
   ],
